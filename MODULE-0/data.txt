@@ -1,0 +1,1 @@
+{'TOMATO': {'Price': 23.0, 'Quantity': 2, 'Total price': 46.0}, 'POTATO': {'Price': 2.0, 'Quantity': 3, 'Total price': 6.0}, 'ONA': {'Price': 1.0, 'Quantity': 2, 'Total price': 2.0}}
